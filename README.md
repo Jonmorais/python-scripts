@@ -1,1 +1,1 @@
-# python-scripts
+# This is my training in the Python language
